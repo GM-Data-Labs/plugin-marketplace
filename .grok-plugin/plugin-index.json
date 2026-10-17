@@ -423,8 +423,8 @@
       }
     },
     "gm-labs-data": {
-      "sha": "0d4888cbffe97a7d9363c77fef5f59bcb1a7b511",
-      "version": "0.1.0",
+      "sha": "1e27523373e945be372a4ed7cb288e38ee165912",
+      "version": "0.2.0",
       "components": {
         "mcpServers": [
           {
@@ -433,6 +433,10 @@
           }
         ],
         "skills": [
+          {
+            "name": "gm-labs-business-leads",
+            "description": "Find fresh local-business leads with GM Labs Actors - newly issued liquor licenses and pending applications (California…"
+          },
           {
             "name": "gm-labs-government-filings",
             "description": "Pull US government filings with GM Labs Actors - TTB alcohol producer/importer permits, new UCC-1 lien filings, and sta…"
